@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004701989044",
+    "project_id": "my-application-326a7",
+    "storage_bucket": "my-application-326a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004701989044:android:f3c2c10b681c5bbec13fe1",
+        "android_client_info": {
+          "package_name": "com.sevval.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UoGs0BHHfSDMwgNusGElbrcIbWnrJ8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
